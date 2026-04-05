@@ -1,4 +1,3 @@
-# tests/test_block.py
 # RFC 8439 ss.2.3.2 test vectors
 
 from chacha20.block import double_round, chacha20_block

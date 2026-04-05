@@ -1,4 +1,3 @@
-# tests/test_state.py
 # RFC 8439 ss.2.3.2 test vectors
 
 from chacha20.state import chacha20_init_state, serialize_state
